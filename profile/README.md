@@ -17,7 +17,7 @@ It requires `node` and `npm` runtimes to work.
 You can develop for mariowOS by going in the [development repository](https://github.com/mariowOS/development) and creating a pull request with a well-documented change of what you did. 
 
 ## Credits
-- [mariowstech](https://github.com/mariowstech)
-- [davidjone16](https://github.com/Davidjone16)
-- [erti](https://github.com/ertyplax) 
+- [mariowstech](https://github.com/mariowstech) Owner and dev
+- [davidjone16](https://github.com/Davidjone16) Co-owner and main-dev
+- [erti](https://github.com/ertyplax) dev
 - and you!
