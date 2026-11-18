@@ -1,24 +1,86 @@
-<img width="1167" height="175" alt="Frame 464" src="https://github.com/user-attachments/assets/9aeee40a-a319-4639-9e5c-bf8141ed261a" />
+<img width="1167" height="175" alt="mariowOS" src="https://github.com/user-attachments/assets/9aeee40a-a319-4639-9e5c-bf8141ed261a" />
 
-An open-source, aftermarket full desktop experience for desktop and portable devices built on Node and JavaScript.
+# mariowOS
+
+**A clean, fast, smooth desktop experience for your PC and portable devices.**
+Open source, built on Node and JavaScript. No ads, no data collected.
+
+<p align="center">
+  <img width="800" alt="The mariowOS desktop" src="https://github.com/user-attachments/assets/ec2f5a05-f8bb-4988-a624-ee1bfa3075ba" />
+  <br><sub><i>The mariowOS desktop: Start bar, snapped windows and a custom wallpaper.</i></sub>
+</p>
+
+---
+
+## Get mariowOS
+
+Install the **whole operating system** with the official installer:
+
+### 👉 [github.com/mariowOS/stable/releases](https://github.com/mariowOS/stable/releases)
+
+1. Open the releases page above.
+2. Download the installer (`.exe`) from the latest release.
+3. Run it and follow the guided setup.
+4. Launch **mariowOS** from the Start menu or the desktop shortcut.
+
+The installer needs nothing else: no Git, no Node.js. Your data lives in your Windows user folder, so updates and reinstalls never touch it. Already using mariowOS? It updates itself from **Settings > Updates > Check for updates**.
+
+You can also find the latest build and news on our website: [mariowos.github.io](https://mariowos.github.io).
+
+---
 
 ## What's this?
 
-This is mariowOS, the unifying of [mariowstech](https://github.com/mariowstech)'s past DosVM and Project Kagerou projects.
-We aim to be as stable as possible and bring you an all-around comfort with custom and clean apps, a clean UX with the refined Tiles desktop and a peace of mind with constant security and feature updates and security bulletins. With the community founded store, you have a variety of apps to choose from to get your work done as soon as possible. All components are open-source and fully accessible to everyone.
+mariowOS is the union of [mariowstech](https://github.com/mariowstech)'s past **DosVM** and **Project Kagerou** projects.
 
-You can build your own apps with the official [ACode](https://github.com/mariowOS/acode) development platform and all the required devkits already implemented in the OS.
+We aim to be as stable as possible and to bring you all-around comfort:
 
-## Where do i start?
+- **Custom, clean apps** and a refined **Tiles** desktop for a clear, comfortable UX.
+- **Constant updates**: security and feature updates, plus security bulletins.
+- **A community-founded app store**, with a variety of apps to get your work done quickly.
+- **Open and accessible**: every component is open source and available to everyone.
 
-You can download mariowOS [here](https://mariowos.github.io) and get the latest build as soon as possible. 
-It requires `node` and `npm` runtimes to work. 
+---
 
-You can develop for mariowOS by going in the [development repository](https://github.com/mariowOS/development) and creating a pull request with a well-documented change of what you did. 
+## Build for mariowOS
+
+You can create your own apps with the official [**ACode**](https://github.com/mariowOS/acode) development platform. All the required devkits are already built into the OS.
+
+mariowOS apps are web pages in a GitHub repository, and the SDK gives them notifications, files (with the user's permission), the system theme and more.
+
+---
+
+## Repositories
+
+| Repository                                                    | What it is                                              |
+|---------------------------------------------------------------|---------------------------------------------------------|
+| [stable](https://github.com/mariowOS/stable)                  | Stable builds and the installer ([releases](https://github.com/mariowOS/stable/releases)) |
+| [development](https://github.com/mariowOS/development)        | The main development repo, where the code is written    |
+| [insiders](https://github.com/mariowOS/insiders)              | Early builds for insiders                               |
+| [OTA](https://github.com/mariowOS/OTA)                        | Older versions                                          |
+| [acode](https://github.com/mariowOS/acode)                    | ACode, the app development platform                     |
+
+---
+
+## Contribute
+
+Want to help? Head to the [development repository](https://github.com/mariowOS/development) and open a pull request with a well-documented description of what you changed or get in the **[discord channel](https://discord.com/invite/QxjDUeQGMu)**
+
+---
+
+## Community
+
+- Website: [mariowos.github.io](https://mariowos.github.io)
+- TikTok: [@_mariowos_](https://www.tiktok.com/@_mariowos_)
+- [discord channel: ](https://discord.com/invite/QxjDUeQGMu)
+- Report a bug by submitting an issue
+
+---
 
 ## Credits
-- [mariowstech](https://github.com/mariowstech) Owner, [development](https://github.com/mariowOS/development) and [insiders](https://github.com/mariowOS/insiders)
-- [davidjone16](https://github.com/Davidjone16) Co-owner and [stable](https://github.com/mariowOS/stable) main-dev
-- [diegoolivaa](https://github.com/diegoolivaa) [website](https://mariowos.github.io) main-dev
-- [erti](https://github.com/ertyplax) dev
-- and you!
+
+- [mariowstech](https://github.com/mariowstech): owner, [development](https://github.com/mariowOS/development) and [insiders](https://github.com/mariowOS/insiders)
+- [davidjone16](https://github.com/Davidjone16): co-owner and [stable](https://github.com/mariowOS/stable) main developer
+- [diegoolivaa](https://github.com/diegoolivaa): [website](https://mariowos.github.io) main developer
+- [erti](https://github.com/ertyplax): worked on windows movement animation
+- ...and you!
