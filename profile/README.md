@@ -1,7 +1,7 @@
 <img width="754" height="162" alt="HyadeOS logo" src="https://github.com/user-attachments/assets/41c7b3f5-6e0e-47d4-8984-e549f3be257e" />
 
 
-# hyadeOS
+# hyadeOS (ex mariowOS)
 
 **A clean, fast, smooth desktop experience for your PC and portable devices.**
 Open source, built on Node and JavaScript. No ads, no data collected.
