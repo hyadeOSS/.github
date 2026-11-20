@@ -22,7 +22,7 @@ Install the **whole operating system** with the official installer:
 1. Open the releases page above.
 2. Download the installer (`.exe`) from the latest release.
 3. Run it and follow the guided setup.
-4. Launch **mariowOS** from the Start menu or the desktop shortcut.
+4. Launch **hyadeOS** from the Start menu or the desktop shortcut.
 
 The installer needs nothing else: no Git, no Node.js. Your data lives in your Windows user folder, so updates and reinstalls never touch it. Already using mariowOS? It updates itself from **Settings > Updates > Check for updates**.
 
