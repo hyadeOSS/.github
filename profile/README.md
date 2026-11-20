@@ -17,7 +17,7 @@ Open source, built on Node and JavaScript. No ads, no data collected.
 
 Install the **whole operating system** with the official installer:
 
-### 👉 [github.com/hyadeoss/stable/releases](https://github.com/mariowOS/stable/releases)
+### 👉 [github.com/hyadeoss/stable/releases](https://github.com/hyadeoss/stable/releases)
 
 1. Open the releases page above.
 2. Download the installer (`.exe`) from the latest release.
@@ -26,7 +26,7 @@ Install the **whole operating system** with the official installer:
 
 The installer needs nothing else: no Git, no Node.js. Your data lives in your Windows user folder, so updates and reinstalls never touch it. Already using mariowOS? It updates itself from **Settings > Updates > Check for updates**.
 
-You can also find the latest build and news on our website: [hyadeos.github.io](https://hyadeos.github.io).
+You can also find the latest build and news on our website: [hyadeoss.github.io](https://hyadeoss.github.io).
 
 ---
 
@@ -45,7 +45,7 @@ We aim to be as stable as possible and to bring you all-around comfort:
 
 ## Become a Hyade
 
-You can create your own apps with the official [**ACode**](https://github.com/hyadeproject/acode) development platform. All the required devkits are already built into the OS.
+You can create your own apps with the official [**ACode**](https://github.com/hyadeoss/acode) development platform. All the required devkits are already built into the OS.
 
 hyadeOSS apps are web pages in a GitHub repository, and the SDK gives them notifications, files (with the user's permission), the system theme and more.
 
@@ -55,7 +55,7 @@ hyadeOSS apps are web pages in a GitHub repository, and the SDK gives them notif
 
 | Repository                                                    | What it is                                              |
 |---------------------------------------------------------------|---------------------------------------------------------|
-| [stable](https://github.com/hyadeoss/stable)                  | Stable builds and the installer ([releases](https://github.com/hyadeproject/stable/releases)) |
+| [stable](https://github.com/hyadeoss/stable)                  | Stable builds and the installer ([releases](https://github.com/hyadeoss/stable/releases)) |
 | [development](https://github.com/hyadeoss/development)        | The main development repo, where the code is written    |
 | [insiders](https://github.com/hyadeoss/insiders)              | Early builds for insiders                               |
 | [OTA](https://github.com/hyadeoss/OTA)                        | Older versions                                          |
@@ -71,7 +71,7 @@ Want to help? Head to the [development repository](https://github.com/hyadeoss/d
 
 ## Community
 
-- Website: [hyadeos.github.io](https://hyadeos.github.io)
+- Website: [hyadeos.github.io](https://hyadeoss.github.io)
 - TikTok: [@_mariowos_](https://www.tiktok.com/@_mariowos_)
 - [discord channel: ](https://discord.com/invite/QxjDUeQGMu)
 - Report a bug by submitting an issue
