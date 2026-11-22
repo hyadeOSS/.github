@@ -72,7 +72,7 @@ Want to help? Head to the [development repository](https://github.com/hyadeoss/d
 ## Community
 
 - Website: [hyadeoss.github.io](https://hyadeoss.github.io)
-- TikTok: [@_mariowos_](https://www.tiktok.com/@_mariowos_)
+- TikTok: [@hyadeos](https://www.tiktok.com/@hyadeos)
 - [discord channel: ](https://discord.com/invite/QxjDUeQGMu)
 - Report a bug by submitting an issue
 
