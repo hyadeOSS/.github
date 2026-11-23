@@ -1,14 +1,14 @@
 <img width="754" height="162" alt="HyadeOSS logo" src="https://github.com/user-attachments/assets/41c7b3f5-6e0e-47d4-8984-e549f3be257e" />
 
 
-# hyadeOSS (ex mariowOS)
+# hyadeOS (ex mariowOS)
 
 **A clean, fast, smooth desktop experience for your PC and portable devices.**
 Open source, built on Node and JavaScript. No ads, no data collected.
 
 <p align="center">
-  <img width="800" alt="The hyadeOSS desktop" src="https://github.com/user-attachments/assets/ec2f5a05-f8bb-4988-a624-ee1bfa3075ba" />
-  <br><sub><i>The hyadeOSS desktop: Start bar, snapped windows and a custom wallpaper.</i></sub>
+  <img width="800" alt="The hyadeOS desktop" src="https://github.com/user-attachments/assets/ec2f5a05-f8bb-4988-a624-ee1bfa3075ba" />
+  <br><sub><i>The hyadeOS desktop: Start bar, snapped windows and a custom wallpaper.</i></sub>
 </p>
 
 ---
@@ -22,7 +22,7 @@ Install the **whole operating system** with the official installer:
 1. Open the releases page above.
 2. Download the installer (`.exe`) from the latest release.
 3. Run it and follow the guided setup.
-4. Launch **hyadeOSS** from the Start menu or the desktop shortcut.
+4. Launch **hyadeOS** from the Start menu or the desktop shortcut.
 
 The installer needs nothing else: no Git, no Node.js. Your data lives in your Windows user folder, so updates and reinstalls never touch it. Already using mariowOS? It updates itself from **Settings > Updates > Check for updates**.
 
@@ -32,7 +32,7 @@ You can also find the latest build and news on our website: [hyadeoss.github.io]
 
 ## What's this?
 
-hyadeOSS is the union of [mariowstech](https://github.com/mariowstech)'s past **DosVM** and **Project Kagerou** projects.
+hyadeOS is the union of [mariowstech](https://github.com/mariowstech)'s past **DosVM** and **Project Kagerou** projects.
 
 We aim to be as stable as possible and to bring you all-around comfort:
 
@@ -47,7 +47,7 @@ We aim to be as stable as possible and to bring you all-around comfort:
 
 You can create your own apps with the official [**ACode**](https://github.com/hyadeoss/acode) development platform. All the required devkits are already built into the OS.
 
-hyadeOSS apps are web pages in a GitHub repository, and the SDK gives them notifications, files (with the user's permission), the system theme and more.
+hyadeOS apps are web pages in a GitHub repository, and the SDK gives them notifications, files (with the user's permission), the system theme and more.
 
 ---
 
